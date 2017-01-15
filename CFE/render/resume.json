@@ -1,0 +1,1 @@
+{"accuracy":98.66666666666667,"trials":75,"accurate":74,"precall":{"Amazon.com":{"precision":100,"recall":100},"BestBuy.com":{"precision":100,"recall":100},"eBay.com":{"precision":100,"recall":100},"Google.com":{"precision":100,"recall":93.33333333333333},"OldNavy.com":{"precision":93.75,"recall":100}}}

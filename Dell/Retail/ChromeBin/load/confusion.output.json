@@ -1,0 +1,259 @@
+{
+    "AE.com": {
+        "AE.com": 14,
+        "ChildrensPlace.com": 1
+    },
+    "Aeropostale.com": {
+        "AE.com": 1,
+        "Aeropostale.com": 2,
+        "BestBuy.com": 1,
+        "ColdwaterCreek.com": 1,
+        "Costco.com": 2,
+        "JCPenney.com": 2,
+        "LLBean.com": 1,
+        "Newegg.com": 1,
+        "Yahoo.com": 1,
+        "hottopic.com": 3
+    },
+    "Amazon.com": {
+        "Amazon.com": 14,
+        "TJMaxx.com": 1
+    },
+    "BananaRepublic.com": {
+        "BananaRepublic.com": 11,
+        "ChildrensPlace.com": 1,
+        "LLBean.com": 1,
+        "Lowes.com": 1,
+        "Yahoo.com": 1
+    },
+    "BedBathandBeyond.com": {
+        "BedBathandBeyond.com": 13,
+        "JCPenney.com": 1,
+        "eBay.com": 1
+    },
+    "Belk.com": {
+        "Belk.com": 14,
+        "ColdwaterCreek.com": 1
+    },
+    "BestBuy.com": {
+        "BestBuy.com": 15
+    },
+    "Blair.com": {
+        "BestBuy.com": 1,
+        "Blair.com": 10,
+        "Haband.com": 3,
+        "TJMaxx.com": 1
+    },
+    "ChildrensPlace.com": {
+        "ChildrensPlace.com": 15
+    },
+    "ColdwaterCreek.com": {
+        "BestBuy.com": 1,
+        "ColdwaterCreek.com": 3,
+        "LLBean.com": 2,
+        "Meijer.com": 4,
+        "TJMaxx.com": 5
+    },
+    "Costco.com": {
+        "Costco.com": 10,
+        "Meijer.com": 3,
+        "TJMaxx.com": 2
+    },
+    "Dillards.com": {
+        "Dillards.com": 15
+    },
+    "Express.com": {
+        "Express.com": 11,
+        "Forever21.com": 2,
+        "TJMaxx.com": 2
+    },
+    "Forever21.com": {
+        "Forever21.com": 15
+    },
+    "Gap.com": {
+        "Gap.com": 15
+    },
+    "Google.com": {
+        "Google.com": 15
+    },
+    "Haband.com": {
+        "Blair.com": 3,
+        "Haband.com": 10,
+        "LLBean.com": 1,
+        "TJMaxx.com": 1
+    },
+    "Hollisterco.com": {
+        "Costco.com": 2,
+        "Hollisterco.com": 13
+    },
+    "HomeDepot.com": {
+        "Costco.com": 3,
+        "HomeDepot.com": 12
+    },
+    "JCPenney.com": {
+        "Blair.com": 1,
+        "Costco.com": 4,
+        "JCPenney.com": 8,
+        "Roamans.com": 1,
+        "SamsClub.com": 1
+    },
+    "KingSizeDirect.com": {
+        "ChildrensPlace.com": 1,
+        "KingSizeDirect.com": 6,
+        "Roamans.com": 8
+    },
+    "Kmart.com": {
+        "Kmart.com": 14,
+        "Roamans.com": 1
+    },
+    "Kohls.com": {
+        "Kohls.com": 12,
+        "Yahoo.com": 3
+    },
+    "LLBean.com": {
+        "BestBuy.com": 2,
+        "LLBean.com": 10,
+        "TJMaxx.com": 2,
+        "TigerDirect.com": 1
+    },
+    "LandsEnd.com": {
+        "ChildrensPlace.com": 1,
+        "Costco.com": 2,
+        "LLBean.com": 4,
+        "LandsEnd.com": 6,
+        "Nike.com": 1,
+        "OneStopPlus.com": 1
+    },
+    "LaneBryant.com": {
+        "Costco.com": 1,
+        "LaneBryant.com": 10,
+        "Roamans.com": 4
+    },
+    "Lowes.com": {
+        "Lowes.com": 15
+    },
+    "Macys.com": {
+        "Macys.com": 13,
+        "Newegg.com": 1
+    },
+    "Meijer.com": {
+        "Meijer.com": 15
+    },
+    "Newegg.com": {
+        "ChildrensPlace.com": 4,
+        "Costco.com": 2,
+        "LLBean.com": 1,
+        "Newegg.com": 5,
+        "Nike.com": 1,
+        "TJMaxx.com": 2
+    },
+    "Nike.com": {
+        "Nike.com": 15
+    },
+    "Nordstrom.com": {
+        "ChildrensPlace.com": 1,
+        "ColdwaterCreek.com": 2,
+        "Costco.com": 2,
+        "Nordstrom.com": 5,
+        "QVC.com": 1,
+        "Roamans.com": 1,
+        "RossStores.com": 1,
+        "Yahoo.com": 1,
+        "hottopic.com": 1
+    },
+    "OldNavy.com": {
+        "BananaRepublic.com": 2,
+        "Newegg.com": 1,
+        "Nike.com": 2,
+        "OldNavy.com": 4,
+        "Roamans.com": 1,
+        "Yahoo.com": 4
+    },
+    "OneStopPlus.com": {
+        "Costco.com": 1,
+        "LLBean.com": 1,
+        "OneStopPlus.com": 8,
+        "Roamans.com": 5
+    },
+    "Overstock.com": {
+        "Overstock.com": 15
+    },
+    "QVC.com": {
+        "ChildrensPlace.com": 2,
+        "ColdwaterCreek.com": 1,
+        "Costco.com": 2,
+        "QVC.com": 9,
+        "RossStores.com": 1
+    },
+    "Roamans.com": {
+        "ColdwaterCreek.com": 1,
+        "Roamans.com": 12,
+        "TJMaxx.com": 2
+    },
+    "RossStores.com": {
+        "RossStores.com": 13,
+        "TJMaxx.com": 1,
+        "eBay.com": 1
+    },
+    "SamsClub.com": {
+        "ChildrensPlace.com": 1,
+        "ColdwaterCreek.com": 1,
+        "LLBean.com": 1,
+        "SamsClub.com": 3
+    },
+    "Sears.com": {
+        "Kmart.com": 2,
+        "LLBean.com": 2,
+        "Nike.com": 1,
+        "Sears.com": 10
+    },
+    "TJMaxx.com": {
+        "TJMaxx.com": 13,
+        "TigerDirect.com": 1
+    },
+    "Target.com": {
+        "Costco.com": 1,
+        "Dillards.com": 1,
+        "HomeDepot.com": 4,
+        "LLBean.com": 1,
+        "RossStores.com": 1,
+        "Target.com": 7
+    },
+    "TigerDirect.com": {
+        "TigerDirect.com": 15
+    },
+    "VictoriasSecret.com": {
+        "ChildrensPlace.com": 2,
+        "HomeDepot.com": 1,
+        "TJMaxx.com": 1,
+        "VictoriasSecret.com": 5
+    },
+    "Walmart.com": {
+        "Belk.com": 1,
+        "ColdwaterCreek.com": 1,
+        "Forever21.com": 1,
+        "Nike.com": 2,
+        "Walmart.com": 7,
+        "eBay.com": 1
+    },
+    "WomanWithin.com": {
+        "Blair.com": 1,
+        "WomanWithin.com": 14
+    },
+    "Yahoo.com": {
+        "Roamans.com": 1,
+        "Yahoo.com": 14
+    },
+    "Zappos.com": {
+        "Zappos.com": 15
+    },
+    "eBay.com": {
+        "eBay.com": 15
+    },
+    "hottopic.com": {
+        "LLBean.com": 2,
+        "TJMaxx.com": 4,
+        "TigerDirect.com": 5,
+        "hottopic.com": 4
+    }
+}

@@ -1,0 +1,254 @@
+{
+    "AE.com": {
+        "AE.com": 11
+    },
+    "Aeropostale.com": {
+        "Aeropostale.com": 2.859803019690844,
+        "ColdwaterCreek.com": 1.6534531889376853,
+        "LLBean.com": 1.1619351343521074,
+        "Macys.com": 0.9985293996198981,
+        "Nike.com": 1.3112969182033545,
+        "WomanWithin.com": 1.0149823391961112
+    },
+    "Amazon.com": {
+        "Amazon.com": 9.503084861222767,
+        "Express.com": 0.4888009381458968,
+        "Kmart.com": 0.5090535063752022,
+        "OneStopPlus.com": 0.4990606942561336
+    },
+    "BananaRepublic.com": {
+        "BananaRepublic.com": 8.645923664790843,
+        "Express.com": 0.46388680465686105,
+        "OldNavy.com": 0.8901895305522964
+    },
+    "BedBathandBeyond.com": {
+        "AE.com": 0.45565462955744723,
+        "BedBathandBeyond.com": 10.544345370442553
+    },
+    "Belk.com": {
+        "Belk.com": 6.028641896969534,
+        "ColdwaterCreek.com": 0.5023677830066383,
+        "Hollisterco.com": 0.4858279713482384,
+        "Lowes.com": 0.4959534920971994,
+        "Macys.com": 0.4988787758158345,
+        "hottopic.com": 1.9883300807625555
+    },
+    "BestBuy.com": {
+        "BestBuy.com": 11
+    },
+    "Blair.com": {
+        "Blair.com": 8.879492025596958,
+        "HomeDepot.com": 0.8178823948049683,
+        "Yahoo.com": 1.3026255795980721
+    },
+    "ChildrensPlace.com": {
+        "ChildrensPlace.com": 11
+    },
+    "ColdwaterCreek.com": {
+        "ColdwaterCreek.com": 5.333004586083839,
+        "LLBean.com": 1.1802834743596886,
+        "Lowes.com": 0.3183496305173361,
+        "Macys.com": 0.32901740607572516,
+        "Nike.com": 2.3597177087784527,
+        "TJMaxx.com": 0.3309971731497297,
+        "WomanWithin.com": 1.1486300210352285
+    },
+    "Costco.com": {
+        "Costco.com": 10
+    },
+    "Dillards.com": {
+        "Dillards.com": 11
+    },
+    "Express.com": {
+        "Express.com": 5.828847993512677,
+        "HomeDepot.com": 0.8196249128087318,
+        "KingSizeDirect.com": 1.4937322142299871,
+        "Nike.com": 1.3664150528388572,
+        "OneStopPlus.com": 0.9985446085425276,
+        "Yahoo.com": 0.49283521806721875
+    },
+    "Forever21.com": {
+        "Forever21.com": 11
+    },
+    "Gap.com": {
+        "Gap.com": 10.044863920577265,
+        "OldNavy.com": 0.9551360794227353
+    },
+    "Google.com": {
+        "Google.com": 11
+    },
+    "Haband.com": {
+        "Blair.com": 1,
+        "Haband.com": 9.503666204008026,
+        "LandsEnd.com": 0.4963337959919747
+    },
+    "Hollisterco.com": {
+        "Hollisterco.com": 9.566400682619495,
+        "Lowes.com": 0.963409070823994,
+        "WomanWithin.com": 0.47019024655651037
+    },
+    "HomeDepot.com": {
+        "Belk.com": 0.3286533179569743,
+        "ColdwaterCreek.com": 1.6532626865309115,
+        "Hollisterco.com": 0.32951161548314784,
+        "HomeDepot.com": 1.9980886837904104,
+        "Kmart.com": 1.0019113162095896,
+        "LLBean.com": 0.5011808340666365,
+        "Lowes.com": 0.3298171805119199,
+        "Macys.com": 0.33573987206855976,
+        "Nike.com": 1.8265157615085144,
+        "Nordstrom.com": 0.4988784995882702,
+        "WomanWithin.com": 1.1964402322850658
+    },
+    "JCPenney.com": {
+        "Belk.com": 0.34738417636449526,
+        "Hollisterco.com": 0.6517395915476745,
+        "JCPenney.com": 9.166832338978423,
+        "WomanWithin.com": 0.834043893109407
+    },
+    "KingSizeDirect.com": {
+        "ChildrensPlace.com": 0.49401736253121414,
+        "KingSizeDirect.com": 9.505982637468787
+    },
+    "Kmart.com": {
+        "BestBuy.com": 3,
+        "Kmart.com": 8
+    },
+    "Kohls.com": {
+        "Kohls.com": 11
+    },
+    "LLBean.com": {
+        "BestBuy.com": 0.5073204034335004,
+        "ColdwaterCreek.com": 1.970276854703561,
+        "LLBean.com": 4.811638846721005,
+        "Nike.com": 2.035988983509327,
+        "Nordstrom.com": 0.8462614902196297,
+        "TJMaxx.com": 0.4926795965664996,
+        "WomanWithin.com": 0.33583382484647756
+    },
+    "LandsEnd.com": {
+        "BedBathandBeyond.com": 0.44863196577578823,
+        "LandsEnd.com": 8.080504599713828,
+        "eBay.com": 0.4708634345103829
+    },
+    "LaneBryant.com": {
+        "LaneBryant.com": 10
+    },
+    "Lowes.com": {
+        "ColdwaterCreek.com": 0.499794331898876,
+        "Lowes.com": 7.548054418311694,
+        "Nike.com": 1.4799406953880576,
+        "WomanWithin.com": 0.4722105544013727
+    },
+    "Macys.com": {
+        "Aeropostale.com": 0.494282606723419,
+        "ColdwaterCreek.com": 0.9808501930881242,
+        "LLBean.com": 0.49587521567736476,
+        "Lowes.com": 0.32123417985170133,
+        "Macys.com": 4.369265826218319,
+        "Nike.com": 0.49817588761900006,
+        "Nordstrom.com": 3.353891555847822,
+        "hottopic.com": 0.48642453497425003
+    },
+    "Meijer.com": {
+        "Meijer.com": 7.528164372505206,
+        "Nike.com": 1.4865641722874092,
+        "TJMaxx.com": 0.9852714552073857
+    },
+    "Newegg.com": {
+        "Newegg.com": 11
+    },
+    "Nike.com": {
+        "BestBuy.com": 5.531158685186529,
+        "Nike.com": 3.5119233953382567,
+        "OneStopPlus.com": 1.488076604661743,
+        "TJMaxx.com": 0.4688413148134706
+    },
+    "Nordstrom.com": {
+        "Aeropostale.com": 0.48187194663412414,
+        "BestBuy.com": 2.0120226843101716,
+        "Macys.com": 0.5142309865459747,
+        "Nordstrom.com": 7.51006761490354,
+        "WomanWithin.com": 0.4818067676061888
+    },
+    "OldNavy.com": {
+        "Express.com": 0.8221405564985241,
+        "Gap.com": 2.825721607403374,
+        "OldNavy.com": 6.847375564659542,
+        "Yahoo.com": 0.5047622714385591
+    },
+    "OneStopPlus.com": {
+        "OneStopPlus.com": 10
+    },
+    "Overstock.com": {
+        "Overstock.com": 10
+    },
+    "QVC.com": {
+        "Belk.com": 0.9816671196777602,
+        "Hollisterco.com": 0.495300275255499,
+        "LLBean.com": 0.9727368124602822,
+        "Macys.com": 0.8460933234279471,
+        "Nordstrom.com": 2.3657708038835423,
+        "QVC.com": 4.017447060223228,
+        "hottopic.com": 0.3209846050717411
+    },
+    "Roamans.com": {
+        "Roamans.com": 9
+    },
+    "RossStores.com": {
+        "RossStores.com": 8.511097162122926,
+        "VictoriasSecret.com": 0.48890283787707417
+    },
+    "SamsClub.com": {
+        "SamsClub.com": 6.527555485099303,
+        "Yahoo.com": 0.47244451490069644
+    },
+    "TJMaxx.com": {
+        "BestBuy.com": 0.5133468086352602,
+        "TJMaxx.com": 0.4866531913647398
+    },
+    "Target.com": {
+        "Target.com": 11
+    },
+    "TigerDirect.com": {
+        "TigerDirect.com": 11
+    },
+    "VictoriasSecret.com": {
+        "RossStores.com": 0.7953956110035225,
+        "VictoriasSecret.com": 2.2046043889964775
+    },
+    "Walmart.com": {
+        "Walmart.com": 10
+    },
+    "WomanWithin.com": {
+        "BestBuy.com": 1.5621170418106518,
+        "ColdwaterCreek.com": 0.8207354998955896,
+        "LLBean.com": 0.6756075593578691,
+        "Nike.com": 2.834712435858246,
+        "Nordstrom.com": 0.4918959925645612,
+        "TJMaxx.com": 0.9459869656247872,
+        "WomanWithin.com": 2.668944504888295
+    },
+    "Yahoo.com": {
+        "BananaRepublic.com": 0.46695874817025146,
+        "Express.com": 0.5330412518297485,
+        "Hollisterco.com": 0.5020020760323344,
+        "KingSizeDirect.com": 0.495682210941621,
+        "Kmart.com": 0.9668975260301623,
+        "OneStopPlus.com": 0.504317789058379,
+        "Yahoo.com": 6.531100397937504
+    },
+    "Zappos.com": {
+        "Zappos.com": 10
+    },
+    "eBay.com": {
+        "eBay.com": 11
+    },
+    "hottopic.com": {
+        "ColdwaterCreek.com": 0.6568174225997158,
+        "Macys.com": 1.6719345827079075,
+        "Nordstrom.com": 3.6782701611430597,
+        "WomanWithin.com": 0.8216402319988481,
+        "hottopic.com": 3.1713376015504684
+    }
+}
